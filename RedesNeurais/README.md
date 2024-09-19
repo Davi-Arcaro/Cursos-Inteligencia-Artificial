@@ -1,2 +1,3 @@
-# Cursos-Intelig-ncia-Artificial
-Aqui estão códigos de alguns cursos que fiz de IA na Udemy
+# Cursos-Inteligência-Artificial
+- Nesta pasta, constam redes neurais básicas
+- In this folder, there are basic neural networks
